@@ -1,4 +1,4 @@
-const a = 50;
+const f = 50;
 
 const b = () => {
 	console.log('Hi there');
